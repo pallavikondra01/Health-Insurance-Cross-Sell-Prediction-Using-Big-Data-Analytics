@@ -48,4 +48,3 @@ The Vehicle Insurance Cross-Selling Project leverages advanced big data analytic
 
 ---
 
-You can upload this content under the **README.md** or as an "About" section for the project on GitHub. Let me know if you need further refinements!
